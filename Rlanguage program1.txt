@@ -1,0 +1,16 @@
+>2587+2149
+>287954-135479
+
+
+x <-c(1,2,3,4,5)
+sum(X)
+X
+
+2+3
+4*5
+
+sin(30*pi/180)
+
+sqrt(160)
+
+>write.csv(a,'C:\\Users\\Administrator\\Documments')
